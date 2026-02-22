@@ -1,4 +1,4 @@
-### Hi there! 👋 I'm a Pharmaceutical science Student building tools with Code.
+### Hello evertone! 👋 I'm a Pharmaceutical science Student building tools with Code.
 
 **약과학(Pharmaceutical science)**을 전공하며, **IT 기술(Python, CADD)**을 접목해 새로운 가치를 만드는 것을 목표로 합니다.
 컴퓨터를 활용한 신약 개발(CADD)과 뇌과학 분야 대학원 진학을 준비하고 있습니다.
